@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+    background-color: antiquewhite;
+  
+    
+}
+#hi:hover{
+    color: yellow
+}
+body{
+    background-image:url("http://cdn.wallpapersafari.com/26/66/kbQZXM.jpg");
+}
+p,ul,figcaption{
+    background-color: bisque;
+    /* display: flex; */
+    /* display: inline;   */
+    display: inline-block;
+}
