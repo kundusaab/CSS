@@ -1,0 +1,47 @@
+/* p{
+        color:red;
+        font-size: larger;
+    }
+    h1{
+        color:pink;
+        font-size: larger;
+    }
+    h2{
+        color:orange;
+        font-size: larger;
+    } */
+    /* table,td,tr,td{
+        border: 10px solid black;
+        border-collapse: collapse;
+        color:aqua
+    }
+    .green{
+        color: green;
+    }
+    .blue{
+        color:blue
+    }
+    .small{
+        font-size: small;
+    }
+    .large{
+        font-size: large;
+    }
+    #first-button{
+        color: red;
+    }
+    #intro-para{
+        background-color: aqua;
+    } */
+    /* button:hover{
+        color: yellow;
+    }
+    .link-color:hover{
+        color:yellow
+    }
+    #link-id:hover{
+        color: bisque;
+    } */
+    p{
+        color: blue !important;
+    }
