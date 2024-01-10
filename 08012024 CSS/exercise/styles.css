@@ -2,19 +2,21 @@
     text-align: left;
 }
 .two{
-    text-align: right;
+    text-align:   right;
 }
 .three{
     text-align: center;
 }
 .four{
-    text-align: bottom right;
+    /* text-align: bottom right; */
+    /* align-content: space-between; */
 }
 .five{
-    ;
+    vertical-align: baseline;
 }
 .photo{
-    width:50%;
-    height: 50%;
-    /* display: block; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
