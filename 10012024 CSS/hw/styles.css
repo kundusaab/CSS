@@ -1,0 +1,33 @@
+body{
+    height: 100px;
+    width: 100px;
+    background-image:url("./image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.p{
+    font-size: 30px;
+    color: red;
+    display: inline-block;
+    position: absolute;
+
+}
+#p1{
+    top: 0px;
+}
+#p2{
+    left: 94%;
+}
+#p3{
+    top: 95%;
+}
+#p4{
+    top: 95%;
+    left: 94%;
+}
+#p5{
+    top: 47%;
+    left: 47%;
+}

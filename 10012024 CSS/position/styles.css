@@ -1,0 +1,17 @@
+/* p{
+    position: static;
+} */
+.div{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: relative;
+    display: inline-block;
+}
+.box{
+    position: relative;
+    left: 15px;
+    top: 100px;
+    background-color: aqua;
+}
